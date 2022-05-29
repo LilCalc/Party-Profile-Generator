@@ -4,8 +4,8 @@ const Intern = require("./lib/InternC.js");
 const inquirer = require("inquirer");
 const path = require("path");
 const fs = require("fs");
-const OUTPUT_DIR = path.resolve(__dirname, "output");
-const outputPath = path.join(OUTPUT_DIR, "./Res/index.html");
+const OUTPUT_DIR = path.resolve(__dirname, "Res");
+const outputPath = path.join(OUTPUT_DIR, "index.html");
 const generateTeam = require("./src/tem.js")
 
 teamArray = [];
@@ -145,11 +145,11 @@ function addEngineer() {
 
   }
 
-  // return to menu with option to add another team member create team
+  // return to menu with option to add another party member
 
-  // Would you like to add a team member?
+  // Would you like to add a party member?
   // Yes || No
-  // If Yes --> Then select an employee role for your new team member: Manager, Engineer, Intern
+  // If Yes --> Then select an employee role for your new party member: Manager, Engineer, Intern
   // If No --> Create Team
 
 
