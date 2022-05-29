@@ -1,0 +1,29 @@
+{
+  "name": "party-profile-generator",
+  "version": "1.0.0",
+  "description": "OOP",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilCalc/Party-Profile-Generator.git"
+  },
+  "author": "LilCalc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LilCalc/Party-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/LilCalc/Party-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
