@@ -32,7 +32,12 @@
    ## Usage
    The application will be used to give managers a way to view employee information easily.
    ## Screenshot
-   ![Screenshot]()
+   <img width="1428" alt="Screen Shot 2022-05-29 at 8 00 21 PM" src="https://user-images.githubusercontent.com/101202962/170899623-acb988d3-db16-4e81-8189-4795a6d54398.png">
+
+
+https://user-images.githubusercontent.com/101202962/170899638-d4328743-aaa0-4eab-aee8-246379664338.mp4
+
+
    ## Features
    Employee emails and github links.
    
